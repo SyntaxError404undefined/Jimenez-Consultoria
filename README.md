@@ -127,22 +127,6 @@ El archivo `js/main.js` gestiona:
 
 ---
 
-## 🐛 Solución de Problemas
-
-### La página no carga correctamente
-- Verifica que todas las rutas de imagen sean correctas
-- Asegúrate de usar un servidor local (no abras el HTML directamente con `file://`)
-
-### Las imágenes no se ven
-- Confirma que los archivos existen en `assets/img/`
-- Revisa la consola del navegador para errores 404
-
-### El menú hamburguesa no funciona
-- Abre la consola (F12) y verifica que no haya errores de JavaScript
-- Comprueba que `js/main.js` esté correctamente enlazado
-
----
-
 ## 📝 Licencia
 
 Proyecto privado. Todos los derechos reservados.
@@ -151,7 +135,12 @@ Proyecto privado. Todos los derechos reservados.
 
 ## 👩‍💼 Autor
 
-**Katherine A. Jiménez**  
+**Daniel Porras**
+
+## Cliente
+
+**Jiménez Consultoría**
+
 Consultoría en Gestión Estratégica del Talento Humano  
 
 ---
